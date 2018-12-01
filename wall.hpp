@@ -10,7 +10,7 @@
 class wall {
 public:
     /**
-     * print the wall. 
+     * print the wall.
      */
     virtual void print() = 0;
 };
